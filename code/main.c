@@ -7,7 +7,6 @@
 #include <stdlib.h> 
 #include "LCD/lcd.h"
 #include "DIO/dio.h"
-#include "Ultrasonic/ultrasonic.h"
 
 
 // Select version to build:
